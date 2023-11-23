@@ -11,6 +11,4 @@ Diseñar una función a la que se le pase una cadena de caracteres y la devuelva
 #Ejercicio 8
 Diseñar un programa que solicite al usuario una frase y una palabra. A continuación buscará cuántas veces aparece la palabra en la frase.
 #Ejercicio 9
-Pedir el nombre completo (nombre y apellidos) al usuario. El programa debe eliminar cualquier vocal del nombre.
-#Cambios Jaime
-Crack, maquina, mastodonte fieroncio que tenias mal el ejercicio 5 y te lo he arreglado poniendo comprobaciones bizcocho de limon y chocolate
+
