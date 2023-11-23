@@ -11,4 +11,10 @@ Diseñar una función a la que se le pase una cadena de caracteres y la devuelva
 #Ejercicio 8
 Diseñar un programa que solicite al usuario una frase y una palabra. A continuación buscará cuántas veces aparece la palabra en la frase.
 #Ejercicio 9
+main
+Pedir el nombre completo (nombre y apellidos) al usuario. El programa debe eliminar cualquier vocal del nombre.
+# git-colabora-ruben
+Añado comentarios en los ejercicios subidos para saber que hace cada funcion 
 
+
+ main

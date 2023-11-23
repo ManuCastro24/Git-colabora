@@ -17,7 +17,7 @@ public class Ejercicio4 {
 		sc.close();
 		
 	}
-
+	//Funcion para introdicir"<>" en medio de la frase
 	public static void Cadena1(String cadena) {
 		
 		

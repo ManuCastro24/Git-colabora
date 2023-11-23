@@ -26,7 +26,7 @@ public class Ejercicio6 {
 		sc.close();
 		
 	}
-
+	//Funcion para insertar un numero en la posicion indicada
 	public static void  InsertarNum(String num , int posicion, long insertar) {
 		
 		//funcion para insertar numero

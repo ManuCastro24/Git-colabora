@@ -17,7 +17,7 @@ public class Ejercicio7 {
 		sc.close();
 		
 	}
-
+//Funcion para invertir la frase
 	public static void InvertirFrase(String f) {
 		
 		int longitud = f.length() - 1;
