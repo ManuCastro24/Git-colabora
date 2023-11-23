@@ -24,7 +24,7 @@ public class Ejercicio5 {
 		
 	}
 
-	
+	//Funcion para separar el numero desde la posicion  indicada
 	public static void  Numpartido(String num , int partir) {
 		
 		

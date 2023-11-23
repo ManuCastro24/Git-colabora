@@ -24,7 +24,7 @@ public class Ejercicio8 {
 		sc.close();
 	}
 
-	
+	//Funcion para saber cuantas veces se repite una palabra en una frase
 	public static int BuscaPalabras(String frase, String palabra) {
 		
 		frase = frase.toLowerCase();
