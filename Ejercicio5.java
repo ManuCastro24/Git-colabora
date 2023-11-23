@@ -16,12 +16,15 @@ public class Ejercicio5 {
 		System.out.print("Introduzca la posición a partir de la cual quiere partir el número: ");
 		int posicion = sc.nextInt();
 		
-		
+		if (numero <= 0) {
+			System.out.println("El numeor introducido no es valido, ha de ser entero positivo");
+		} else {
+
 		String Numero = String.valueOf(numero);
 		
 		Numpartido(Numero, posicion);
-		
-		
+
+		}	
 	}
 
 	
