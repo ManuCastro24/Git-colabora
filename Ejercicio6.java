@@ -9,7 +9,7 @@ public class Ejercicio6 {
 		
 		var sc = new Scanner(System.in);
 		
-		
+		//Pedir por consola los datos
 		System.out.print("Por favor, introduzca un número entero positivo: ");
 		long numero = sc.nextInt();
 		
@@ -20,7 +20,7 @@ public class Ejercicio6 {
 		int insertar = sc.nextInt();
 
 		String Numero = String.valueOf(numero);
-		
+		//ir a la funcion
 		InsertarNum(Numero, posicion, insertar);
 		
 		sc.close();
@@ -29,7 +29,7 @@ public class Ejercicio6 {
 
 	public static void  InsertarNum(String num , int posicion, long insertar) {
 		
-		
+		//funcion para insertar numero
 		String resultado =  num.substring(0, posicion-1) + insertar + num.substring(posicion-1); 
 	
 		System.out.println(resultado);
