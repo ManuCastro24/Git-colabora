@@ -9,7 +9,7 @@ public class Ejercicio4 {
 
 		var sc = new Scanner(System.in);
 	
-		System.out.print("Introduce una cadena de caracteres : ");
+		System.out.print("Escribe una frase : ");
 		String cadena = sc.nextLine();
 		
 		Cadena1(cadena);
